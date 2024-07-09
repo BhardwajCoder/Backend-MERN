@@ -1,4 +1,4 @@
-import { Travel } from '../models/travelmodel.js';
+import { Travel } from '../models/Travelmodel.js';
 import { Apierror } from '../utils/Apierror.js';
 import { asynchandler } from '../utils/asynchandler.js';
 import { Apiresponse } from '../utils/Apiresponse.js';
